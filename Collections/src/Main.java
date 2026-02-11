@@ -7,7 +7,7 @@ public class Main {
         ArrayList<Integer> al = new ArrayList<>();
         al.add(1);
         al.add(2);
-
+        al.remove(1);
         for(int i:al)
             System.out.println(i);
     }
