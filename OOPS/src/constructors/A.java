@@ -12,7 +12,7 @@ public class A {
     }
     A(int j)
     {
-        this();
+//        this();
     }
     public static void main(String[] args) {
 
