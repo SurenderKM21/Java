@@ -15,6 +15,6 @@ public class Initialization2 {
     }
 
     public static void main(String[] args) {
-        Object obj = new Initialization2  ();
+        Object obj   = new Initialization2  ();
     }
 }
