@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Parent1 {
 
-    private Parent1() {
+     Parent1() {
 
     }
 
