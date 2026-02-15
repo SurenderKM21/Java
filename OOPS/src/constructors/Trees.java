@@ -8,18 +8,18 @@ class Leaves extends Branch
     {
         System.out.print("1");
     }
-    static void m(Trees x, Branch y)
-    {
-        System.out.print("2");
-    }
+//    static void m(Trees x, Branch y)
+//    {
+//        System.out.print("2");
+//    }
     static void m(Branch x, Trees y)
     {
         System.out.print("3");
     }
-    static void m(Branch x, Branch y)
-    {
-        System.out.print("4");
-    }
+//    static void m(Branch x, Branch y)
+//    {
+//        System.out.print("4");
+//    }
     public static void main(String[] args)
     {
         Trees trees;
